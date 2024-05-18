@@ -1,0 +1,19 @@
+{
+  "name": "premid-min",
+  "module": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "bun run ."
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/discord-rpc": "^4.0.8"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "socket.io": "^4.7.5"
+  }
+}
