@@ -1,4 +1,7 @@
-# premid-min
+# PreMiD-min
+This repo implements the server protocol of [PreMid](https://github.com/PreMiD/PreMiD)
+
+# Instructions
 
 To install dependencies:
 
@@ -9,7 +12,5 @@ bun install
 To run:
 
 ```bash
-bun run src/index.ts
+bun start
 ```
-
-This project was created using `bun init` in bun v1.1.8. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
